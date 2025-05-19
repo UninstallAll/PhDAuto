@@ -4,5 +4,6 @@
 # 激活虚拟环境
 source venv/bin/activate
 
-# 运行后端服务器
-cd backend && python run.py 
+# 进入后端目录并启动应用
+cd backend
+python run.py 
